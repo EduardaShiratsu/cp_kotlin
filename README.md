@@ -34,10 +34,10 @@ Arquivo: Main.kt
 - Abrir o projeto em uma IDE compatível com Kotlin.
 - Executar o arquivo Main.kt.
 
-(img/imag 1.jpg)
+![Imagem 1](img/imag 1.jpg)
 
-(img/imag 2.jpg)
+![Imagem 2](img/imag 2.jpg)
 
-(img/imag 3.jpg)
+![Imagem 3](img/imag 3.jpg)
 
 Projeto para a disciplina **Android Kotlin Developer** ministrada pelo professor **Ewerton Luiz de Lima Carreira**.
